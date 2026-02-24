@@ -1,5 +1,4 @@
 package com.javarush.games.racer;
-
 import com.javarush.engine.cell.*;
 import com.javarush.games.racer.road.RoadManager;
 
